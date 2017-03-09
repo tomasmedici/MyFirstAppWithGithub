@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstAppWithGithub</string>
+    <string name="button_send">Button</string>
+    <string name="choose_options">Choose one of the following options</string>
+    <string name="button_name">Properties</string>
+    <string name="edit_message">Enter a message</string>
+</resources>
