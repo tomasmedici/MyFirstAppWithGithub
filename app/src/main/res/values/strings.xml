@@ -1,7 +1,17 @@
 <resources>
     <string name="app_name">MyFirstAppWithGithub</string>
-    <string name="button_send">Button</string>
+    <string name="button_send">Send from Spinner</string>
     <string name="choose_options">Choose one of the following options</string>
     <string name="button_name">Properties</string>
     <string name="edit_message">Enter a message</string>
+    <string name="display_text"></string>
+
+
+    <string-array name="country_names">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>China</item>
+        <item>Singapore</item>
+    </string-array>
 </resources>
